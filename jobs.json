@@ -1,14 +1,13 @@
 [
   {
     "label": "Nurse",
-    "priority": 10  // High number = Shows up often
+    "priority": 10
   },
   {
     "label": "Retail Assistant",
-    "priority": 5   // Lower number = Shows up less often
+    "priority": 5
   },
   {
-    "label": "Astronaut",
-    // No priority field = NEVER shows in tags (Search only)
+    "label": "Astronaut"
   }
 ]
