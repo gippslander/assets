@@ -3,18 +3,21 @@
     "label": "Inverloch",
     "postcode": "3996",
     "full_name": "Inverloch, Victoria, Australia",
-    "location_id": "7272827"
+    "location_id": "7272827",
+    "priority": 2
   },
   {
     "label": "Moe",
     "postcode": "3825",
     "full_name": "Moe, Victoria, Australia",
-    "location_id": "8744285"
+    "location_id": "8744285",
+    "priority": 10
   },
   {
     "label": "Korumburra",
     "postcode": "3950",
     "full_name": "Korumburra, Victoria, Australia",
-    "location_id": "3564968"
+    "location_id": "3564968",
+    "priority": 10
   }
 ]
