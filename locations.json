@@ -138,7 +138,7 @@
 { "label": "Fairy Dell", "postcode": "3875", "full_name": "Fairy Dell, Victoria, Australia", "location_id": "", "priority": 0, "region": "East Gippsland" },
 { "label": "Fernbank", "postcode": "3864", "full_name": "Fernbank, Victoria, Australia", "location_id": "", "priority": 0, "region": "East Gippsland" },
 { "label": "Ferndale", "postcode": "3820", "full_name": "Ferndale, Victoria, Australia", "location_id": "", "priority": 0, "region": "Baw Baw" },
-{ "label": "Fish Creek", "postcode": "3959", "full_name": "Fish Creek, Victoria, Australia", "location_id": "10537539", "priority": 10, "region": "Bass Coast" },
+{ "label": "Fish Creek", "postcode": "3959", "full_name": "Fish Creek, Victoria, Australia", "location_id": "10537539", "priority": 0, "region": "Bass Coast" },
 { "label": "Flaggy Creek", "postcode": "3875", "full_name": "Flaggy Creek, Victoria, Australia", "location_id": "", "priority": 0, "region": "East Gippsland" },
 { "label": "Flamingo Beach", "postcode": "3851", "full_name": "Flamingo Beach, Victoria, Australia", "location_id": "", "priority": 0, "region": "Wellington" },
 { "label": "Flynn", "postcode": "3844", "full_name": "Flynn, Victoria, Australia", "location_id": "", "priority": 0, "region": "Wellington" },
