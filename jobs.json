@@ -1,4 +1,5 @@
 [
+{ "label": "Bakers Delight", "priority": 9 },
 { "label": "Casual", "priority": 8 },
 { "label": "Retail", "priority": 7 },
 { "label": "Customer Service", "priority": 7 },
