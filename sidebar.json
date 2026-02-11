@@ -1,32 +1,47 @@
 [
   {
-    "id": "standard-course",
-    "priority": 3,
-    "title": "Hospitality Course",
-    "subtitle": "Get certified in just one day.",
-    "meta": "Short Course",
-    "icon": "☕",
-    "link": "https://gippslander.com.au/courses",
+    "id": "courses-promo",
+    "priority": 10,
+    "title": "Upskill Gippsland",
+    "subtitle": "Boost your resume with local training.",
+    "meta": "25+ New Courses",
+    "icon": "course",
+    "link": "https://gippslander.com.au/courses?utm_source=sidebar&utm_medium=web&utm_campaign=courses",
     "theme": {
-      "badgeText": "New",
+      "badgeText": "NEW",
       "badgeColor": "#ff5722",
-      "backgroundColor": "#fbe9e7",
-      "borderColor": "#ffccbc"
+      "backgroundColor": "#f1f8e9",
+      "borderColor": "#c8e6c9"
     }
   },
   {
-    "id": "email-alerts",
-    "priority": 1,
-    "title": "Job Alerts",
-    "subtitle": "Get daily job in your inbox.",
-    "meta": "Free",
-    "icon": "📩",
-    "link": "https://gippslander.com.au/alerts",
+    "id": "employer-promo",
+    "priority": 5,
+    "title": "Hiring Now?",
+    "subtitle": "Post a job to find local talent fast.",
+    "meta": "Reach 5k+ Locals",
+    "icon": "megaphone",
+    "link": "https://gippslander.com.au/post-job?utm_source=sidebar&utm_medium=web&utm_campaign=employer",
     "theme": {
-      "badgeText": "Free",
-      "badgeColor": "#4caf50",
-      "backgroundColor": "#e8f5e9",
-      "borderColor": "#c8e6c9"
+      "badgeText": "HOT",
+      "badgeColor": "#d32f2f",
+      "backgroundColor": "#fff3e0",
+      "borderColor": "#ffe0b2"
+    }
+  },
+  {
+    "id": "newsletter-promo",
+    "priority": 3,
+    "title": "Job Alerts",
+    "subtitle": "Get weekly updates in your inbox.",
+    "meta": "Free Signup",
+    "icon": "mail",
+    "link": "https://gippslander.com.au/newsletter?utm_source=sidebar&utm_medium=web&utm_campaign=newsletter",
+    "theme": {
+      "badgeText": "FREE",
+      "badgeColor": "#1976d2",
+      "backgroundColor": "#e3f2fd",
+      "borderColor": "#bbdefb"
     }
   }
 ]
