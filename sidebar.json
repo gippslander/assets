@@ -2,7 +2,7 @@
   {
     "id": "courses-promo",
     "priority": 10,
-    "title": "Upskill Gippsland",
+    "title": "Short courses",
     "subtitle": "Boost your resume with local training.",
     "meta": "25+ New Courses",
     "icon": "course",
@@ -17,11 +17,11 @@
   {
     "id": "employer-promo",
     "priority": 5,
-    "title": "Hiring Now?",
-    "subtitle": "Post a job to find local talent fast.",
+    "title": "Hiring?",
+    "subtitle": "Post a job on Gippslander",
     "meta": "Reach 5k+ Locals",
     "icon": "megaphone",
-    "link": "https://gippslander.com.au/post-job?utm_source=sidebar&utm_medium=web&utm_campaign=employer",
+    "link": "https://gippslander.com.au/pricing?utm_source=sidebar&utm_medium=web&utm_campaign=employer",
     "theme": {
       "badgeText": "HOT",
       "badgeColor": "#d32f2f",
@@ -32,11 +32,11 @@
   {
     "id": "newsletter-promo",
     "priority": 3,
-    "title": "Job Alerts",
-    "subtitle": "Get weekly updates in your inbox.",
+    "title": "Job alerts",
+    "subtitle": "Get daily updates in your inbox.",
     "meta": "Free Signup",
     "icon": "mail",
-    "link": "https://gippslander.com.au/newsletter?utm_source=sidebar&utm_medium=web&utm_campaign=newsletter",
+    "link": "https://gippslander.com.au/alerts?utm_source=sidebar&utm_medium=web&utm_campaign=newsletter",
     "theme": {
       "badgeText": "FREE",
       "badgeColor": "#1976d2",
