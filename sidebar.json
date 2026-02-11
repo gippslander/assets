@@ -1,0 +1,47 @@
+[
+  {
+    "id": "paid-promotion",
+    "priority": 10, 
+    "title": "Featured: Gippsland Tafe",
+    "subtitle": "Enrolments open now for Semester 2.",
+    "meta": "Sponsored",
+    "icon": "🏫",
+    "link": "https://gippslander.com.au/tafe?utm_source=sidebar",
+    "theme": {
+      "badgeText": "Featured",
+      "badgeColor": "#673ab7", 
+      "backgroundColor": "#ede7f6",
+      "borderColor": "#d1c4e9"
+    }
+  },
+  {
+    "id": "standard-course",
+    "priority": 3,
+    "title": "Barista Course",
+    "subtitle": "Get certified in just one day.",
+    "meta": "Short Course",
+    "icon": "☕",
+    "link": "https://gippslander.com.au/courses/barista",
+    "theme": {
+      "badgeText": "New",
+      "badgeColor": "#ff5722",
+      "backgroundColor": "#fbe9e7",
+      "borderColor": "#ffccbc"
+    }
+  },
+  {
+    "id": "newsletter",
+    "priority": 1,
+    "title": "Job Alerts",
+    "subtitle": "Get weekly updates in your inbox.",
+    "meta": "Free",
+    "icon": "📩",
+    "link": "https://gippslander.com.au/subscribe",
+    "theme": {
+      "badgeText": "Free",
+      "badgeColor": "#4caf50",
+      "backgroundColor": "#e8f5e9",
+      "borderColor": "#c8e6c9"
+    }
+  }
+]
