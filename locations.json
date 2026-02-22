@@ -6,7 +6,7 @@
 { "label": "Warragul", "postcode": "3820", "full_name": "Warragul, Victoria, Australia", "location_id": "1612567", "priority": 9, "region": "Baw Baw", "lat": -38.159, "lon": 145.931 },
 { "label": "Wonthaggi", "postcode": "3898", "full_name": "Wonthaggi, Victoria, Australia", "location_id": "1032230", "priority": 9, "region": "Bass Coast", "lat": -38.609, "lon": 145.5911 },
 { "label": "Leongatha", "postcode": "3953", "full_name": "Leongatha, Victoria, Australia", "location_id": "11999415", "priority": 8, "region": "South Gippsland", "lat": -38.4761, "lon": 145.9467 },
-{ "label": "Cowes", "postcode": "3922", "full_name": "Cowes, Victoria, Australia", "location_id": "", "priority": 7, "region": "Bass Coast", "lat": -38.4511, "lon": 145.2415 },
+{ "label": "Cowes", "postcode": "3922", "full_name": "Cowes, Victoria, Australia", "location_id": "2138339", "priority": 7, "region": "Bass Coast", "lat": -38.4511, "lon": 145.2415 },
 { "label": "Drouin", "postcode": "3818", "full_name": "Drouin, Victoria, Australia", "location_id": "8382366", "priority": 7, "region": "Baw Baw", "lat": -38.1361, "lon": 145.8572 },
 { "label": "Heyfield", "postcode": "3858", "full_name": "Heyfield, Victoria, Australia", "location_id": "", "priority": 7, "region": "Wellington", "lat": -37.978, "lon": 146.7749 },
 { "label": "Inverloch", "postcode": "3996", "full_name": "Inverloch, Victoria, Australia", "location_id": "7272827", "priority": 7, "region": "Bass Coast", "lat": -38.6333, "lon": 145.7294 },
@@ -500,5 +500,5 @@
 { "label": "Yanakie", "postcode": "3960", "full_name": "Yanakie, Victoria, Australia", "location_id": "", "priority": 0, "region": "South Gippsland" },
 { "label": "Yangoura", "postcode": "3858", "full_name": "Yangoura, Victoria, Australia", "location_id": "", "priority": 0, "region": "Wellington" },
 { "label": "Yarragon South", "postcode": "3823", "full_name": "Yarragon South, Victoria, Australia", "location_id": "", "priority": 0, "region": "Baw Baw" },
-{ "label": "Yinnar South", "postcode": "3869", "full_name": "Yinnar South, Victoria, Australia", "location_id": "", "priority": 0, "region": "Latrobe Valley", "lat": -38.3975, "lon": 146.3661 }
+{ "label": "Yinnar South", "postcode": "3869", "full_name": "Yinnar South, Victoria, Australia", "location_id": "", "priority": 0, "region": "Latrobe Valley", "lat": -38.3975, "lon": 146.3661 }  
 ]
