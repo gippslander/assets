@@ -3,7 +3,12 @@
     "gippslander.com.au",
     "Gippslander"
   ],    
-  
+  "/jobs": [
+    "Browse jobs",
+    "Gippsland jobs",
+    "Jobs in Gippsland",
+    "Local jobs"
+  ],    
   "/pricing": [
     "Post a job",
     "Post"
