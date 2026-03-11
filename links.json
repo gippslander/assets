@@ -1,32 +1,107 @@
 {
-
-  "Administration and Support": "/jobs/administration-and-support",
-  "Community and Social Services": "/jobs/community-and-social-services",
-  "Education": "/jobs/education-and-training",
-  "Construction and Trades": "/jobs/construction-and-trades",
-  "Retail and Hospitality": "/retail-and-hospitality",
-  "Retail": "/retail-and-hospitality",
-  "Maintenance and Cleaning": "/jobs/maintenance-and-cleaning",
-  "Healthcare and Medical": "/jobs/healthcare-and-medical",
-  
-  "Bass Coast": "/bass-coast",
-  "Baw Baw ": "/baw-baw",
-  "East Gippsland": "/east-gippsland",
-  "Latrobe Valley": "/latrobe-valley",
-  "South Gippslnd": "/south-gippsland",
-  "Wellington Shire": "/wellington",
-
-  "Bairnsdale": "/jobs/in-bairnsdale-victoria-australia",
-  "Cowes": "/jobs/in-cowes-victoria-australia",
-  "Drouin": "/jobs/in-drouin-victoria-australia",
-  "Inverloch": "/in-inverloch-victoria-australia",
-  "Korumburra": "/jobs/in-korumburra-victoria-australia",
-  "Lakes Entrance": "/jobs/in-lakes-entrance-victoria-australia",
-  "Leongatha": "/jobs/in-leongatha-victoria-australia",
-  "Moe": "/jobs/in-moe-victoria-australia",
-  "Morwell": "/jobs/in-morwell-victoria-australia",
-  "Sale": "/jobs/in-sale-victoria-australia",
-  "Traralgon": "/jobs/in-traralgon-victoria-australia",
-  "Warragul": "/jobs/in-warragul-victoria-australia",
-  "Wonthaggi": "/jobs/in-wonthaggi-victoria-australia"
+  "/jobs/administration-and-support": [
+    "Administration and Support",
+    "Admin and Support"
+  ],
+  "/jobs/community-and-social-services": [
+    "Community and Social Services",
+    "Community Services"
+  ],
+  "/jobs/education-and-training": [
+    "Education and Training",
+    "Education"
+  ],
+  "/jobs/construction-and-trades": [
+    "Construction and Trades",
+    "Construction"
+  ],
+  "/retail-and-hospitality": [
+    "Retail and Hospitality",
+    "Hospitality",
+    "Retail"
+  ],
+  "/jobs/maintenance-and-cleaning": [
+    "Maintenance and Cleaning"
+  ],
+  "/jobs/healthcare-and-medical": [
+    "Healthcare and Medical",
+    "Healthcare"
+  ],
+  "/bass-coast": [
+    "Work in the Bass Coast",
+    "Bass Coast"
+  ],
+  "/baw-baw": [
+    "Baw Baw"
+  ],
+  "/east-gippsland": [
+    "East Gippsland"
+  ],
+  "/latrobe-valley": [
+    "Latrobe Valley"
+  ],
+  "/south-gippsland": [
+    "South Gippsland",
+    "South Gippslnd"
+  ],
+  "/wellington": [
+    "Wellington Shire"
+  ],
+  "/jobs/in-bairnsdale-victoria-australia": [
+    "Jobs in Bairnsdale",
+    "Bairnsdale"
+  ],
+  "/jobs/in-cowes-victoria-australia": [
+    "Jobs in Cowes",
+    "Cowes"
+  ],
+  "/jobs/in-drouin-victoria-australia": [
+    "Jobs in Drouin",
+    "Drouin"
+  ],
+  "/in-inverloch-victoria-australia": [
+    "Jobs in Inverloch",
+    "Inverloch"
+  ],
+  "/jobs/in-korumburra-victoria-australia": [
+    "Jobs in Korumburra",
+    "Korumburra"
+  ],
+  "/jobs/in-lakes-entrance-victoria-australia": [
+    "Jobs in Lakes Entrance",
+    "Lakes Entrance"
+  ],
+  "/jobs/in-leongatha-victoria-australia": [
+    "Jobs in Leongatha",
+    "Leongatha"
+  ],
+  "/jobs/in-moe-victoria-australia": [
+    "Jobs in Moe",
+    "Moe"
+  ],
+  "/jobs/in-morwell-victoria-australia": [
+    "Jobs in Morwell",
+    "Morwell"
+  ],
+  "/jobs/in-phillip-island-victoria-australia": [
+    "Jobs in Phillip Island",
+    "Phillip Island"
+  ],
+  "/jobs/in-sale-victoria-australia": [
+    "Jobs in Sale",
+    "Sale"
+  ],
+  "/jobs/in-traralgon-victoria-australia": [
+    "Jobs in Traralgon",
+    "Traralgon"
+  ],
+  "/jobs/in-warragul-victoria-australia": [
+    "Jobs in Warragul",
+    "Warragul"
+  ],
+  "/jobs/in-wonthaggi-victoria-australia": [
+    "Jobs in Wonthaggi",
+    "Work in Wonthaggi",
+    "Wonthaggi"
+  ]
 }
