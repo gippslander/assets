@@ -26,6 +26,10 @@
     "Get alerts",
     "Alerts"
   ],  
+    "/app": [
+    "Gippslander app",
+    "Get the app"
+  ],  
   "/jobs/administration-and-support": [
     "Administration and Support",
     "Admin and Support"
