@@ -8,7 +8,8 @@
     "Gippsland jobs",
     "Jobs in Gippsland",
     "Latest jobs in Gippsland",
-    "Local jobs"
+    "local job listings",
+    "local jobs"
   ],    
   "/pricing": [
     "Post a job",
@@ -149,5 +150,9 @@
     "Work in Wonthaggi",
     "Wonthaggi jobs",
     "Wonthaggi"
+  ],
+    "/jobs/supermarket": [
+    "supermarket jobs",
+    "Supermarket"
   ]
 }
