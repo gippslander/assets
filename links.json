@@ -1,4 +1,14 @@
 {
+  "/courses": [
+    "Browse available courses",
+    "Online courses",
+    "Courses"
+  ],  
+    "/alerts": [
+    "Get email alerts",
+    "Get alerts",
+    "Alerts"
+  ],  
   "/jobs/administration-and-support": [
     "Administration and Support",
     "Admin and Support"
@@ -25,10 +35,13 @@
   ],
   "/jobs/healthcare-and-medical": [
     "Healthcare and Medical",
+    "Medical",
     "Healthcare"
   ],
   "/bass-coast": [
     "Work in the Bass Coast",
+    "Jobs in the Bass Coast",
+    "Bass Coast jobs",
     "Bass Coast"
   ],
   "/baw-baw": [
@@ -41,26 +54,33 @@
     "Latrobe Valley"
   ],
   "/south-gippsland": [
-    "South Gippsland",
-    "South Gippslnd"
+    "South Gippsland jobs",
+    "work in South Gippsland",
+    "South Gippsland"
   ],
   "/wellington": [
+    "Wellington Shire jobs",
     "Wellington Shire"
   ],
   "/jobs/in-bairnsdale-victoria-australia": [
     "Jobs in Bairnsdale",
+    "work in Bairnsdale",
     "Bairnsdale"
   ],
   "/jobs/in-cowes-victoria-australia": [
     "Jobs in Cowes",
+    "Work in Cowes",
     "Cowes"
   ],
   "/jobs/in-drouin-victoria-australia": [
     "Jobs in Drouin",
+    "Work in Drouin",
     "Drouin"
   ],
   "/in-inverloch-victoria-australia": [
     "Jobs in Inverloch",
+    "Work in Inverloch",
+    "Inverlock jobs"
     "Inverloch"
   ],
   "/jobs/in-korumburra-victoria-australia": [
@@ -102,6 +122,7 @@
   "/jobs/in-wonthaggi-victoria-australia": [
     "Jobs in Wonthaggi",
     "Work in Wonthaggi",
+    "Wonthaggi jobs",
     "Wonthaggi"
   ]
 }
