@@ -305,8 +305,6 @@
 { "label": "Moroka", "postcode": "3860", "full_name": "Moroka, Victoria, Australia", "location_id": "", "priority": 0, "region": "Wellington" },
 { "label": "Mossiface", "postcode": "3885", "full_name": "Mossiface, Victoria, Australia", "location_id": "", "priority": 0, "region": "East Gippsland" },
 { "label": "Mount Best", "postcode": "3960", "full_name": "Mount Best, Victoria, Australia", "location_id": "", "priority": 0, "region": "Bass Coast" },
-{ "label": "Mount Eccles", "postcode": "3953", "full_name": "Mount Eccles, Victoria, Australia", "location_id": "", "priority": 0, "region": "Bass Coast", "lat": -38.0621, "lon": 141.9257 },
-{ "label": "Mount Eccles South", "postcode": "3953", "full_name": "Mount Eccles South, Victoria, Australia", "location_id": "", "priority": 0, "region": "Bass Coast" },
 { "label": "Mount Tassie", "postcode": "3844", "full_name": "Mount Tassie, Victoria, Australia", "location_id": "", "priority": 0, "region": "Latrobe Valley" },
 { "label": "Mount Taylor", "postcode": "3875", "full_name": "Mount Taylor, Victoria, Australia", "location_id": "", "priority": 0, "region": "East Gippsland" },
 { "label": "Mountain View", "postcode": "3988", "full_name": "Mountain View, Victoria, Australia", "location_id": "", "priority": 0, "region": "Baw Baw" },
