@@ -1,14 +1,26 @@
 {
 
+  "Education": "/jobs/education-and-training",
+  "Retail": "/retail-and-hospitality",
+  
   "Bass Coast": "/bass-coast",
   "Baw Baw ": "/baw-baw",
   "East Gippsland": "/east-gippsland",
   "Latrobe Valley": "/latrobe-valley",
   "South Gippslnd": "/south-gippsland",
   "Wellington Shire": "/wellington",
-  
+
+  "Bairnsdale": "/jobs/in-bairnsdale-victoria-australia",
   "Cowes": "/jobs/in-cowes-victoria-australia",
-  "Leongatha": "/jobs/in-leongatha-victoria-australia",
+  "Drouin": "/jobs/in-drouin-victoria-australia",
+  "Inverloch": "/in-inverloch-victoria-australia",
   "Korumburra": "/jobs/in-korumburra-victoria-australia",
+  "Lakes Entrance": "/jobs/in-lakes-entrance-victoria-australia",
+  "Leongatha": "/jobs/in-leongatha-victoria-australia",
+  "Moe": "/jobs/in-moe-victoria-australia",
+  "Morwell": "/jobs/in-morwell-victoria-australia",
+  "Sale": "/jobs/in-sale-victoria-australia",
+  "Traralgon": "/jobs/in-traralgon-victoria-australia",
+  "Warragul": "/jobs/in-warragul-victoria-australia",
   "Wonthaggi": "/jobs/in-wonthaggi-victoria-australia"
 }
