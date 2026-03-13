@@ -9,7 +9,7 @@
     {
       "id": "how-many-see-my-ad",
       "question": "How many people will see my job ad?",
-      "answer": "We have over 2,000 registered job seekers across Gippsland, and your listing is also distributed to job aggregators like Jora and Careerjet which reach thousands more. Featured listings are also promoted on our social media channels. The exact reach depends on the role and location, but your ad won't just sit on a page — we actively push it out.",
+      "answer": "We have over 3,000 registered job seekers across Gippsland, and your listing is also distributed to job aggregators like Jora and Careerjet which reach thousands more. Featured listings are also promoted on our social media channels. The exact reach depends on the role and location, but your ad won't just sit on a page — we actively push it out.",
       "tags": ["pricing", "employer"]
     },
     {
@@ -27,7 +27,7 @@
     {
       "id": "listing-expires",
       "question": "What happens when my listing expires?",
-      "answer": "Your job ad is automatically removed from the website and search results. If you still need to fill the role, you can repost or upgrade to a longer listing. We'll send you a reminder before it expires so you're not caught off guard.",
+      "answer": "Your job ad is automatically removed from the website and search results. If you still need to fill the role, you can repost your listing. We'll send you a email when it expires so you're not caught off guard.",
       "tags": ["pricing", "employer"]
     },
     {
@@ -37,21 +37,9 @@
       "tags": ["pricing", "employer"]
     },
     {
-      "id": "payment-methods",
-      "question": "What payment methods do you accept?",
-      "answer": "We accept all major credit and debit cards through our secure online checkout powered by Stripe. Payment is taken at the time of posting.",
-      "tags": ["pricing", "employer"]
-    },
-    {
       "id": "gst",
       "question": "Are prices inclusive of GST?",
       "answer": "No. All listed prices are exclusive of GST. GST will be added at checkout.",
-      "tags": ["pricing", "employer"]
-    },
-    {
-      "id": "partner-subscription",
-      "question": "What is a local employer partnership?",
-      "answer": "Our partnership plan is designed for employers who hire regularly across Gippsland. For a flat annual fee you get unlimited job listings, homepage branding, automatic social media promotion, and priority support. It's the best value if you're posting more than a few roles a year. Get in touch to learn more.",
       "tags": ["pricing", "employer"]
     },
     {
@@ -85,12 +73,6 @@
       "tags": ["about"]
     },
     {
-      "id": "who-runs-gippslander",
-      "question": "Who runs Gippslander?",
-      "answer": "Gippslander is run by Kane, right here in Gippsland. It's not a franchise, not a corporate side project — it's a locally built platform by someone who lives and works in the region. If you ever need help, you're talking to the person who built it.",
-      "tags": ["about", "employer"]
-    },
-    {
       "id": "employer-profile",
       "question": "Do I get my own employer profile page?",
       "answer": "Yes. Every employer gets a free profile page on Gippslander where job seekers can learn about your business and see all your current openings in one place.",
@@ -100,12 +82,6 @@
       "id": "how-long-to-go-live",
       "question": "How quickly does my job ad go live?",
       "answer": "Your listing goes live as soon as you complete payment. It'll appear on the website immediately and be included in the next round of email alerts to local job seekers.",
-      "tags": ["employer", "pricing"]
-    },
-    {
-      "id": "message-candidates",
-      "question": "Can I message job seekers directly?",
-      "answer": "Yes — with a Featured listing you can reach out to registered job seekers directly through the platform. It's a great way to be proactive about finding the right person rather than waiting for applications to come in.",
       "tags": ["employer", "pricing"]
     },
     {
