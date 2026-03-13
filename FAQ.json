@@ -1,0 +1,124 @@
+{
+  "faqs": [
+    {
+      "id": "different-from-seek",
+      "question": "How is Gippslander different from Seek or Indeed?",
+      "answer": "Gippslander is 100% focused on the Gippsland region. We don't list Melbourne jobs, and we don't bury your ad behind hundreds of sponsored results. Every listing gets promoted across our local channels — including job expos, community partners, and email alerts to over 2,000 local job seekers. You're also dealing directly with a local person (Kane), not a call centre.",
+      "tags": ["pricing", "employer", "about"]
+    },
+    {
+      "id": "how-many-see-my-ad",
+      "question": "How many people will see my job ad?",
+      "answer": "We have over 2,000 registered job seekers across Gippsland, and your listing is also distributed to job aggregators like Jora and Careerjet which reach thousands more. Featured listings are also promoted on our social media channels. The exact reach depends on the role and location, but your ad won't just sit on a page — we actively push it out.",
+      "tags": ["pricing", "employer"]
+    },
+    {
+      "id": "create-account",
+      "question": "Do I need to create an account to post a job?",
+      "answer": "Yes, but it only takes a minute. You'll create a free employer profile which lets you manage your listings, receive applications, and message candidates. Once you're set up, posting a job is quick and simple.",
+      "tags": ["pricing", "employer"]
+    },
+    {
+      "id": "edit-after-posting",
+      "question": "Can I edit my job ad after posting?",
+      "answer": "Yes. You can log in and update your listing at any time while it's live. If you need a hand, just reach out and Kane can make the changes for you.",
+      "tags": ["pricing", "employer"]
+    },
+    {
+      "id": "listing-expires",
+      "question": "What happens when my listing expires?",
+      "answer": "Your job ad is automatically removed from the website and search results. If you still need to fill the role, you can repost or upgrade to a longer listing. We'll send you a reminder before it expires so you're not caught off guard.",
+      "tags": ["pricing", "employer"]
+    },
+    {
+      "id": "standard-vs-featured",
+      "question": "What's the difference between Standard and Featured?",
+      "answer": "Both include 30+ days live, email alerts to local job seekers, and pinned placement in search. Featured adds extra visibility — your ad is highlighted, pinned for 14 days instead of 7, promoted on social media, and you can message job seekers directly. Featured is ideal when you need to fill a role quickly or want maximum reach.",
+      "tags": ["pricing", "employer"]
+    },
+    {
+      "id": "refunds",
+      "question": "Do you offer refunds?",
+      "answer": "No. Because your listing is promoted immediately across multiple channels — including email alerts and job aggregators — we're unable to offer refunds once a listing is live. If you're unsure which option suits, give Kane a call on 0401 487 657 and he'll help you work out the best fit before you buy.",
+      "tags": ["pricing", "employer"]
+    },
+    {
+      "id": "payment-methods",
+      "question": "What payment methods do you accept?",
+      "answer": "We accept all major credit and debit cards through our secure online checkout powered by Stripe. Payment is taken at the time of posting.",
+      "tags": ["pricing", "employer"]
+    },
+    {
+      "id": "gst",
+      "question": "Are prices inclusive of GST?",
+      "answer": "No. All listed prices are exclusive of GST. GST will be added at checkout.",
+      "tags": ["pricing", "employer"]
+    },
+    {
+      "id": "partner-subscription",
+      "question": "What is a local employer partnership?",
+      "answer": "Our partnership plan is designed for employers who hire regularly across Gippsland. For a flat annual fee you get unlimited job listings, homepage branding, automatic social media promotion, and priority support. It's the best value if you're posting more than a few roles a year. Get in touch to learn more.",
+      "tags": ["pricing", "employer"]
+    },
+    {
+      "id": "how-to-apply",
+      "question": "How do I apply for a job on Gippslander?",
+      "answer": "Find a job you're interested in and click the Apply button on the listing. Some jobs will ask you to apply directly through Gippslander, while others may link to the employer's own application process. Either way, the listing will tell you exactly what to do.",
+      "tags": ["job_seeker"]
+    },
+    {
+      "id": "cost-for-job-seekers",
+      "question": "Does it cost anything to use Gippslander as a job seeker?",
+      "answer": "No. Gippslander is completely free for job seekers. You can browse jobs, create a profile, set up email alerts, and apply for roles at no cost.",
+      "tags": ["job_seeker", "about"]
+    },
+    {
+      "id": "email-alerts",
+      "question": "Can I get notified when new jobs are posted?",
+      "answer": "Yes. When you create a free account, you'll receive email alerts when new jobs are posted in your area. You can update your preferences at any time.",
+      "tags": ["job_seeker"]
+    },
+    {
+      "id": "only-gippsland",
+      "question": "Are all jobs on Gippslander based in Gippsland?",
+      "answer": "Yes. Every job listed on Gippslander is based in the Gippsland region of Victoria. We don't list Melbourne or remote-only roles. If it's on here, it's local.",
+      "tags": ["job_seeker", "about"]
+    },
+    {
+      "id": "what-is-gippslander",
+      "question": "What is Gippslander?",
+      "answer": "Gippslander is a local job website built specifically for the Gippsland region of Victoria. We connect local employers with local job seekers — no Melbourne noise, no algorithm-driven job boards. Just real roles from real Gippsland businesses. The platform is owned and run by Kane, a local who built it because Gippsland deserved something better.",
+      "tags": ["about"]
+    },
+    {
+      "id": "who-runs-gippslander",
+      "question": "Who runs Gippslander?",
+      "answer": "Gippslander is run by Kane, right here in Gippsland. It's not a franchise, not a corporate side project — it's a locally built platform by someone who lives and works in the region. If you ever need help, you're talking to the person who built it.",
+      "tags": ["about", "employer"]
+    },
+    {
+      "id": "employer-profile",
+      "question": "Do I get my own employer profile page?",
+      "answer": "Yes. Every employer gets a free profile page on Gippslander where job seekers can learn about your business and see all your current openings in one place.",
+      "tags": ["employer"]
+    },
+    {
+      "id": "how-long-to-go-live",
+      "question": "How quickly does my job ad go live?",
+      "answer": "Your listing goes live as soon as you complete payment. It'll appear on the website immediately and be included in the next round of email alerts to local job seekers.",
+      "tags": ["employer", "pricing"]
+    },
+    {
+      "id": "message-candidates",
+      "question": "Can I message job seekers directly?",
+      "answer": "Yes — with a Featured listing you can reach out to registered job seekers directly through the platform. It's a great way to be proactive about finding the right person rather than waiting for applications to come in.",
+      "tags": ["employer", "pricing"]
+    },
+    {
+      "id": "coverage-area",
+      "question": "What areas does Gippslander cover?",
+      "answer": "We cover all of Gippsland — from Warragul and Drouin in the west through to Bairnsdale and Lakes Entrance in the east. That includes Baw Baw, South Gippsland, Bass Coast, Latrobe City, Wellington, and East Gippsland shires.",
+      "tags": ["about", "job_seeker", "employer"]
+    }
+  ]
+}
