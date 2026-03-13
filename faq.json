@@ -37,12 +37,6 @@
       "tags": ["pricing", "employer"]
     },
     {
-      "id": "refunds",
-      "question": "Do you offer refunds?",
-      "answer": "No. Because your listing is promoted immediately across multiple channels — including email alerts and job aggregators — we're unable to offer refunds once a listing is live. If you're unsure which option suits, give Kane a call on 0401 487 657 and he'll help you work out the best fit before you buy.",
-      "tags": ["pricing", "employer"]
-    },
-    {
       "id": "payment-methods",
       "question": "What payment methods do you accept?",
       "answer": "We accept all major credit and debit cards through our secure online checkout powered by Stripe. Payment is taken at the time of posting.",
